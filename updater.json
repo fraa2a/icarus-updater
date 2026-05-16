@@ -1,16 +1,16 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "notes": "A new version of Icarus has been released! Check the release page for details.",
-  "pub_date": "2026-05-15T21:15:19Z",
+  "pub_date": "2026-05-16T02:15:49Z",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.1/Icarus-Launcher_0.2.1_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZTB4VUhGajZwc3VrTUd5MG9XaFh3V2YzOFVLNisvOWNXVzVTZmM4YTRYR0kxdElpSi9UZUNzTnYrK0pnTDFWd3RkMDdmWndDZFFWWDl6aU5qZ1FXb1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODc5MDQzCWZpbGU6SWNhcnVzLUxhdW5jaGVyXzAuMi4xX2FtZDY0LkFwcEltYWdlClVrMnZqL0psMmE0YmIyU21IV2x2N0dYVDFXMWR5Q0VFODAxWnBjSDkzMXJBUXJyNnJ3OHB2OFpoRzQvaTVkL3l1QW5PSm9vWUxhY1ZqUzF1VEhabERBPT0K"
+      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.2/Icarus-Launcher_0.2.2_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZTRoYm1Oc2lSMDU4bWxVMmlBMEVTd0UzN2UvM3c3WVA2Vmk1aXZIOXc0Z1lnZGtwL01aVE5qWS91MDlwZEUvK1NUN3p0WlV2V080Slk3TGFIbCtPYUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODk3MTMwCWZpbGU6SWNhcnVzLUxhdW5jaGVyXzAuMi4yX2FtZDY0LkFwcEltYWdlCnB0K3JYVnFXNUMrWEFiNmdzbjE1NlZ0Z2hmVGpBK3VaOVY4MmJjaUwvSDM2ckJJSTJaTVg1SEVCcEE0TU96bU5SRHNKK2Z0UWQxTXlWSnc2bEtjQURBPT0K"
     }
 ,
     "windows-x86_64": {
-      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.1/Icarus-Launcher_0.2.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZThOaCs4TWFybHJwWlNFeVpISXZXMksxeGZpTzJKSkxzTW5oWk5SSTU0MEhVSURWWDI1TTZiU2RHK2lXckNoRXhqYW9nTkpYMW1QNjk0cEFCZWk1YVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODc5Mzg3CWZpbGU6SWNhcnVzLUxhdW5jaGVyXzAuMi4xX3g2NC1zZXR1cC5leGUKbGpXam83RUJDbGJ3eGQxTDFsN2JmdkZyaHJHcGJsblpmbGI0U2VaSGZSODZoMGtSdks1RzIwbkVMWmhoUzU1YTZVU0dVRGlFQ0NBelJwQmc0SmF6Q1E9PQo="
+      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.2/Icarus-Launcher_0.2.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZTVNdWtvb05HZ3FEOVIxdnlZTitOSitkKzJ2WWhIcm5CL2JISjJCTTJWWHVCL3BLMmNOSFJwVTdidlNJZkVKenMwWi9aL3Mza3hXT29VdTNIV0JVZ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODk3NTExCWZpbGU6SWNhcnVzLUxhdW5jaGVyXzAuMi4yX3g2NC1zZXR1cC5leGUKVUg3UTlRNDYvdFR0Tkx0b2hkVDNpY1dxVDB1NWcxRnBna1VhT25XTFpZMWlpSnpQYzhScmE1V2ltekhaTUJzWjhWVDdUTmxqV0xPSitrVE11YUllQVE9PQo="
     }
 
     }
