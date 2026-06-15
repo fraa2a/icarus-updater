@@ -1,16 +1,16 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.7",
   "notes": "A new version of Icarus has been released! Check the release page for details.",
-  "pub_date": "2026-06-05T17:49:28Z",
+  "pub_date": "2026-06-12T00:06:56Z",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.5/Icarus_0.2.5_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZTdQTmRpdEhGcmVvQjE5OHBVT2M2QW5qdnZ3QlBFSkx3bjJad1ZzR1NVdkdxaDFrNDB0S0RhVXRiUUppZ0tEWE91Vm5ScXJmcEl1WkoyZVVEU2U0NVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjgxMTIzCWZpbGU6SWNhcnVzXzAuMi41X2FtZDY0LkFwcEltYWdlCnRZSWpZWHIzWVdPaWxCQ2U5bkwvRit2WC9xejQxWDVBMjJyNzk5S3UyQ01wR1VZbFYvUGErM2FxNExpUU8zRzBMdkxHZFZMSFBvL1BLMHVON3lqa0FBPT0K"
+      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.7/Icarus_0.2.7_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZTVoS20rdkdVZVZESmh2OUViQ2E4ZzNqMWpIRWlKc3dlVEtpUDlGYnBpZENUM0w1SmZicWFCM00wR0wwL0ZpeVBoZWt4VkdHKzQ0NzFvbVp1VkhFY0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjIyMDc1CWZpbGU6SWNhcnVzXzAuMi43X2FtZDY0LkFwcEltYWdlCndBeHZRVDBxVVRybzl3QnN3amhTbzMvQUdyY3FNKytoeHV1MnZnMmxONDRNNXJPNHQyRWxsME91RGpRdU5ZTjRYakFObE1EZmZmNEJXRGMrWk91RkF3PT0K"
     }
 ,
     "windows-x86_64": {
-      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.5/Icarus_0.2.5_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZTBNaGVkV0RmREtXM3lFcmFCWlBzK3hHOTU2UzBCNlJKL21QYXVGSXpkalozSG1zS1lETDdWbis3bGIzTTVwdE5wSnpWc0lLdi8wV21ibElVVGdGY0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjgxNjkyCWZpbGU6SWNhcnVzXzAuMi41X3g2NC1zZXR1cC5leGUKQUVjZVhza2lycXZMNHZkTFZrb1NFZFlrczE5Y3dkbTU0L2ZCVnRkeWozOFJ5MGsvTEJEMUxRSFhZWXN4RjN0SWVaNDRZTlpsQTJIRUlMQnRwaDV4Q3c9PQo="
+      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.7/Icarus_0.2.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZXhaSHlxZkdzcFkrREJMZjIvSC95Nkl6N3dQTDRSWUtLSnF1eDVTem1lUFMyeXVMRW9NZGw4SUZmeXZyS2FIVFl4OUFuM085alRzVTNlWno1MXJ6b0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjIyMzkwCWZpbGU6SWNhcnVzXzAuMi43X3g2NC1zZXR1cC5leGUKVkJvWTIvYVFsTXgzWTZvbUFINk9Ud0VrMmNzenpJN0dJa3gyUUh6My9wUFdvUUR6UWorL3NNZ0xGQjJlVHU5S3lYTHdOaldxTi9GNVcvc3laNXJ5RHc9PQo="
     }
 
     }
