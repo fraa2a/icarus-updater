@@ -1,15 +1,15 @@
 {
-  "version": "0.2.8",
+  "version": "0.2.7",
   "notes": "A new version of Icarus has been released! Check the release page for details.",
   "pub_date": "2026-06-15T17:45:01Z",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.8/Icarus_0.2.8_amd64.AppImage",
+      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.7/Icarus_0.2.7_amd64.AppImage",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZTV4NEc1MjRBQ2loVWNwQmJweUNiR1N2Ujg1Q05FbExCckVyazAxczNjOVl4eHQwUEljUDQwM1RBWitJQzJWdm8ydzhKZjB5UHZkUmRmekFDZFBHVkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTQ0OTMwCWZpbGU6SWNhcnVzXzAuMi44X2FtZDY0LkFwcEltYWdlCmFZM1BaU0x0Z3VKQVozRlFqeCtaN0NWZ3VpTXZvSGNzUSt6QUE0d3lFMHFyQVE0OFlmbE9xdUpoZmVOQ0RyakJ2cEFsaGpBdE5ialgvVVUvVmZ5eENnPT0K"
     }
 ,
     "windows-x86_64": {
-      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.8/Icarus_0.2.8_x64-setup.exe",
+      "url": "https://github.com/fraa2a/Icarus-Launcher/releases/download/v0.2.7/Icarus_0.2.7_x64-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWZtb1hwaGlZZThIOVJqU2RFVGV3VU1QRHljakxGeUltVEQra3Z1YmhJcVNrVHlmMkJvRVNCemdjM2RzRFBMVENCT2h3dlhUOFdudWJzUG9MNHEybFZaZFU1M0FldGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTQ1MzQxCWZpbGU6SWNhcnVzXzAuMi44X3g2NC1zZXR1cC5leGUKSXpKUXRRWnBQY0I5cUZ5QldFOW84VDNqNVB5d0w1OGdjZExhdC80TXdRVWVhN3hGZXlGdjQzYlJ3ZnBQUUxPbnkxVTU1TVVJSXNJMXdYdXpONklCQkE9PQo="
     }
 
